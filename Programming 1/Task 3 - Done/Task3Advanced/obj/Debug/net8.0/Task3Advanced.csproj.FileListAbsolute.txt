@@ -1,0 +1,14 @@
+H:\Programming 1\Task 3 - Done\Task3Advanced\bin\Debug\net8.0\Task3Advanced.exe
+H:\Programming 1\Task 3 - Done\Task3Advanced\bin\Debug\net8.0\Task3Advanced.deps.json
+H:\Programming 1\Task 3 - Done\Task3Advanced\bin\Debug\net8.0\Task3Advanced.runtimeconfig.json
+H:\Programming 1\Task 3 - Done\Task3Advanced\bin\Debug\net8.0\Task3Advanced.dll
+H:\Programming 1\Task 3 - Done\Task3Advanced\bin\Debug\net8.0\Task3Advanced.pdb
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\Task3Advanced.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\Task3Advanced.AssemblyInfoInputs.cache
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\Task3Advanced.AssemblyInfo.cs
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\Task3Advanced.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\Task3Advanced.dll
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\refint\Task3Advanced.dll
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\Task3Advanced.pdb
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\Task3Advanced.genruntimeconfig.cache
+H:\Programming 1\Task 3 - Done\Task3Advanced\obj\Debug\net8.0\ref\Task3Advanced.dll

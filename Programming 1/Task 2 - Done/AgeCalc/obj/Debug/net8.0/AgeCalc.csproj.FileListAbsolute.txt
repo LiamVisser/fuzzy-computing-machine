@@ -1,0 +1,14 @@
+H:\Programming 1\AgeCalc\bin\Debug\net8.0\AgeCalc.exe
+H:\Programming 1\AgeCalc\bin\Debug\net8.0\AgeCalc.deps.json
+H:\Programming 1\AgeCalc\bin\Debug\net8.0\AgeCalc.runtimeconfig.json
+H:\Programming 1\AgeCalc\bin\Debug\net8.0\AgeCalc.dll
+H:\Programming 1\AgeCalc\bin\Debug\net8.0\AgeCalc.pdb
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\AgeCalc.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\AgeCalc.AssemblyInfoInputs.cache
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\AgeCalc.AssemblyInfo.cs
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\AgeCalc.csproj.CoreCompileInputs.cache
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\AgeCalc.dll
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\refint\AgeCalc.dll
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\AgeCalc.pdb
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\AgeCalc.genruntimeconfig.cache
+H:\Programming 1\AgeCalc\obj\Debug\net8.0\ref\AgeCalc.dll

@@ -1,0 +1,14 @@
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\TestPrac.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\TestPrac.AssemblyInfoInputs.cache
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\TestPrac.AssemblyInfo.cs
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\TestPrac.csproj.CoreCompileInputs.cache
+H:\Programming 1\Misc\TestPrac\bin\Debug\net8.0\TestPrac.exe
+H:\Programming 1\Misc\TestPrac\bin\Debug\net8.0\TestPrac.deps.json
+H:\Programming 1\Misc\TestPrac\bin\Debug\net8.0\TestPrac.runtimeconfig.json
+H:\Programming 1\Misc\TestPrac\bin\Debug\net8.0\TestPrac.dll
+H:\Programming 1\Misc\TestPrac\bin\Debug\net8.0\TestPrac.pdb
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\TestPrac.dll
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\refint\TestPrac.dll
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\TestPrac.pdb
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\TestPrac.genruntimeconfig.cache
+H:\Programming 1\Misc\TestPrac\obj\Debug\net8.0\ref\TestPrac.dll

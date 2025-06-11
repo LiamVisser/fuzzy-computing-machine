@@ -1,0 +1,14 @@
+H:\Programming 1\Task 5\rng\bin\Debug\net8.0\rng.exe
+H:\Programming 1\Task 5\rng\bin\Debug\net8.0\rng.deps.json
+H:\Programming 1\Task 5\rng\bin\Debug\net8.0\rng.runtimeconfig.json
+H:\Programming 1\Task 5\rng\bin\Debug\net8.0\rng.dll
+H:\Programming 1\Task 5\rng\bin\Debug\net8.0\rng.pdb
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\rng.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\rng.AssemblyInfoInputs.cache
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\rng.AssemblyInfo.cs
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\rng.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\rng.dll
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\refint\rng.dll
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\rng.pdb
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\rng.genruntimeconfig.cache
+H:\Programming 1\Task 5\rng\obj\Debug\net8.0\ref\rng.dll

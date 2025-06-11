@@ -1,0 +1,14 @@
+H:\Programming 1\Task 7\RugbyGame\bin\Debug\net8.0\RugbyGame.exe
+H:\Programming 1\Task 7\RugbyGame\bin\Debug\net8.0\RugbyGame.deps.json
+H:\Programming 1\Task 7\RugbyGame\bin\Debug\net8.0\RugbyGame.runtimeconfig.json
+H:\Programming 1\Task 7\RugbyGame\bin\Debug\net8.0\RugbyGame.dll
+H:\Programming 1\Task 7\RugbyGame\bin\Debug\net8.0\RugbyGame.pdb
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\RugbyGame.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\RugbyGame.AssemblyInfoInputs.cache
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\RugbyGame.AssemblyInfo.cs
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\RugbyGame.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\RugbyGame.dll
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\refint\RugbyGame.dll
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\RugbyGame.pdb
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\RugbyGame.genruntimeconfig.cache
+H:\Programming 1\Task 7\RugbyGame\obj\Debug\net8.0\ref\RugbyGame.dll

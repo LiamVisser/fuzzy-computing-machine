@@ -1,0 +1,14 @@
+H:\Programming 1\Task 10\Rugby\bin\Debug\net8.0\Rugby.exe
+H:\Programming 1\Task 10\Rugby\bin\Debug\net8.0\Rugby.deps.json
+H:\Programming 1\Task 10\Rugby\bin\Debug\net8.0\Rugby.runtimeconfig.json
+H:\Programming 1\Task 10\Rugby\bin\Debug\net8.0\Rugby.dll
+H:\Programming 1\Task 10\Rugby\bin\Debug\net8.0\Rugby.pdb
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\Rugby.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\Rugby.AssemblyInfoInputs.cache
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\Rugby.AssemblyInfo.cs
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\Rugby.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\Rugby.dll
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\refint\Rugby.dll
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\Rugby.pdb
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\Rugby.genruntimeconfig.cache
+H:\Programming 1\Task 10\Rugby\obj\Debug\net8.0\ref\Rugby.dll

@@ -1,0 +1,14 @@
+H:\Programming 1\Task3BItem\bin\Debug\net8.0\Task3BItem.exe
+H:\Programming 1\Task3BItem\bin\Debug\net8.0\Task3BItem.deps.json
+H:\Programming 1\Task3BItem\bin\Debug\net8.0\Task3BItem.runtimeconfig.json
+H:\Programming 1\Task3BItem\bin\Debug\net8.0\Task3BItem.dll
+H:\Programming 1\Task3BItem\bin\Debug\net8.0\Task3BItem.pdb
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\Task3BItem.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\Task3BItem.AssemblyInfoInputs.cache
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\Task3BItem.AssemblyInfo.cs
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\Task3BItem.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\Task3BItem.dll
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\refint\Task3BItem.dll
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\Task3BItem.pdb
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\Task3BItem.genruntimeconfig.cache
+H:\Programming 1\Task3BItem\obj\Debug\net8.0\ref\Task3BItem.dll

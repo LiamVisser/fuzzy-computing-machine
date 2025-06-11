@@ -1,0 +1,14 @@
+H:\Programming 1\Task 4\MilesToKm\bin\Debug\net8.0\MilesToKm.exe
+H:\Programming 1\Task 4\MilesToKm\bin\Debug\net8.0\MilesToKm.deps.json
+H:\Programming 1\Task 4\MilesToKm\bin\Debug\net8.0\MilesToKm.runtimeconfig.json
+H:\Programming 1\Task 4\MilesToKm\bin\Debug\net8.0\MilesToKm.dll
+H:\Programming 1\Task 4\MilesToKm\bin\Debug\net8.0\MilesToKm.pdb
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\MilesToKm.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\MilesToKm.AssemblyInfoInputs.cache
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\MilesToKm.AssemblyInfo.cs
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\MilesToKm.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\MilesToKm.dll
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\refint\MilesToKm.dll
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\MilesToKm.pdb
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\MilesToKm.genruntimeconfig.cache
+H:\Programming 1\Task 4\MilesToKm\obj\Debug\net8.0\ref\MilesToKm.dll

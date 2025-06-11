@@ -1,0 +1,14 @@
+H:\Programming 1\Task3A\bin\Debug\net8.0\Task3A.exe
+H:\Programming 1\Task3A\bin\Debug\net8.0\Task3A.deps.json
+H:\Programming 1\Task3A\bin\Debug\net8.0\Task3A.runtimeconfig.json
+H:\Programming 1\Task3A\bin\Debug\net8.0\Task3A.dll
+H:\Programming 1\Task3A\bin\Debug\net8.0\Task3A.pdb
+H:\Programming 1\Task3A\obj\Debug\net8.0\Task3A.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task3A\obj\Debug\net8.0\Task3A.AssemblyInfoInputs.cache
+H:\Programming 1\Task3A\obj\Debug\net8.0\Task3A.AssemblyInfo.cs
+H:\Programming 1\Task3A\obj\Debug\net8.0\Task3A.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task3A\obj\Debug\net8.0\Task3A.dll
+H:\Programming 1\Task3A\obj\Debug\net8.0\refint\Task3A.dll
+H:\Programming 1\Task3A\obj\Debug\net8.0\Task3A.pdb
+H:\Programming 1\Task3A\obj\Debug\net8.0\Task3A.genruntimeconfig.cache
+H:\Programming 1\Task3A\obj\Debug\net8.0\ref\Task3A.dll

@@ -1,0 +1,28 @@
+H:\Programming 1\Task3Hours\bin\Debug\net8.0\Task3Hours.exe
+H:\Programming 1\Task3Hours\bin\Debug\net8.0\Task3Hours.deps.json
+H:\Programming 1\Task3Hours\bin\Debug\net8.0\Task3Hours.runtimeconfig.json
+H:\Programming 1\Task3Hours\bin\Debug\net8.0\Task3Hours.dll
+H:\Programming 1\Task3Hours\bin\Debug\net8.0\Task3Hours.pdb
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\Task3Hours.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\Task3Hours.AssemblyInfoInputs.cache
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\Task3Hours.AssemblyInfo.cs
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\Task3Hours.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\Task3Hours.dll
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\refint\Task3Hours.dll
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\Task3Hours.pdb
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\Task3Hours.genruntimeconfig.cache
+H:\Programming 1\Task3Hours\obj\Debug\net8.0\ref\Task3Hours.dll
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\bin\Debug\net8.0\Task3Hours.exe
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\bin\Debug\net8.0\Task3Hours.deps.json
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\bin\Debug\net8.0\Task3Hours.runtimeconfig.json
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\bin\Debug\net8.0\Task3Hours.dll
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\bin\Debug\net8.0\Task3Hours.pdb
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\Task3Hours.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\Task3Hours.AssemblyInfoInputs.cache
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\Task3Hours.AssemblyInfo.cs
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\Task3Hours.csproj.CoreCompileInputs.cache
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\Task3Hours.dll
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\refint\Task3Hours.dll
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\Task3Hours.pdb
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\Task3Hours.genruntimeconfig.cache
+D:\BIT HW\Programming 1\Task 3 - Done\Task3Hours\obj\Debug\net8.0\ref\Task3Hours.dll

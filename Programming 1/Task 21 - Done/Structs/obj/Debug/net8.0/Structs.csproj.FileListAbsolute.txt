@@ -1,0 +1,14 @@
+H:\Programming 1\Task 21\Structs\bin\Debug\net8.0\Structs.exe
+H:\Programming 1\Task 21\Structs\bin\Debug\net8.0\Structs.deps.json
+H:\Programming 1\Task 21\Structs\bin\Debug\net8.0\Structs.runtimeconfig.json
+H:\Programming 1\Task 21\Structs\bin\Debug\net8.0\Structs.dll
+H:\Programming 1\Task 21\Structs\bin\Debug\net8.0\Structs.pdb
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\Structs.AssemblyInfoInputs.cache
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\Structs.AssemblyInfo.cs
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\Structs.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\Structs.dll
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\refint\Structs.dll
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\Structs.pdb
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\Structs.genruntimeconfig.cache
+H:\Programming 1\Task 21\Structs\obj\Debug\net8.0\ref\Structs.dll

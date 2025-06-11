@@ -1,0 +1,14 @@
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ReadingFromFiles.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ReadingFromFiles.AssemblyInfoInputs.cache
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ReadingFromFiles.AssemblyInfo.cs
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ReadingFromFiles.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 22\ReadingFromFiles\bin\Debug\net8.0\ReadingFromFiles.exe
+H:\Programming 1\Task 22\ReadingFromFiles\bin\Debug\net8.0\ReadingFromFiles.deps.json
+H:\Programming 1\Task 22\ReadingFromFiles\bin\Debug\net8.0\ReadingFromFiles.runtimeconfig.json
+H:\Programming 1\Task 22\ReadingFromFiles\bin\Debug\net8.0\ReadingFromFiles.dll
+H:\Programming 1\Task 22\ReadingFromFiles\bin\Debug\net8.0\ReadingFromFiles.pdb
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ReadingFromFiles.dll
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\refint\ReadingFromFiles.dll
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ReadingFromFiles.pdb
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ReadingFromFiles.genruntimeconfig.cache
+H:\Programming 1\Task 22\ReadingFromFiles\obj\Debug\net8.0\ref\ReadingFromFiles.dll

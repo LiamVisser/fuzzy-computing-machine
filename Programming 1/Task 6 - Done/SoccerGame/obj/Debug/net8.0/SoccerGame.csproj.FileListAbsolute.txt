@@ -1,0 +1,14 @@
+H:\Programming 1\Task 6\SoccerGame\bin\Debug\net8.0\SoccerGame.exe
+H:\Programming 1\Task 6\SoccerGame\bin\Debug\net8.0\SoccerGame.deps.json
+H:\Programming 1\Task 6\SoccerGame\bin\Debug\net8.0\SoccerGame.runtimeconfig.json
+H:\Programming 1\Task 6\SoccerGame\bin\Debug\net8.0\SoccerGame.dll
+H:\Programming 1\Task 6\SoccerGame\bin\Debug\net8.0\SoccerGame.pdb
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\SoccerGame.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\SoccerGame.AssemblyInfoInputs.cache
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\SoccerGame.AssemblyInfo.cs
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\SoccerGame.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\SoccerGame.dll
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\refint\SoccerGame.dll
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\SoccerGame.pdb
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\SoccerGame.genruntimeconfig.cache
+H:\Programming 1\Task 6\SoccerGame\obj\Debug\net8.0\ref\SoccerGame.dll

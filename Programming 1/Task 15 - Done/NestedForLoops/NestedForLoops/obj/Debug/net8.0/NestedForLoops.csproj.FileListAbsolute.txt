@@ -1,0 +1,14 @@
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\NestedForLoops.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\NestedForLoops.AssemblyInfoInputs.cache
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\NestedForLoops.AssemblyInfo.cs
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\NestedForLoops.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\bin\Debug\net8.0\NestedForLoops.exe
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\bin\Debug\net8.0\NestedForLoops.deps.json
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\bin\Debug\net8.0\NestedForLoops.runtimeconfig.json
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\bin\Debug\net8.0\NestedForLoops.dll
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\bin\Debug\net8.0\NestedForLoops.pdb
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\NestedForLoops.dll
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\refint\NestedForLoops.dll
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\NestedForLoops.pdb
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\NestedForLoops.genruntimeconfig.cache
+H:\Programming 1\Task 15\NestedForLoops\NestedForLoops\obj\Debug\net8.0\ref\NestedForLoops.dll

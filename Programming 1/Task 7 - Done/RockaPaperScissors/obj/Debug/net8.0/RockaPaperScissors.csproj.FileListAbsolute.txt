@@ -1,0 +1,14 @@
+H:\Programming 1\Task 7\RockaPaperScissors\bin\Debug\net8.0\RockaPaperScissors.exe
+H:\Programming 1\Task 7\RockaPaperScissors\bin\Debug\net8.0\RockaPaperScissors.deps.json
+H:\Programming 1\Task 7\RockaPaperScissors\bin\Debug\net8.0\RockaPaperScissors.runtimeconfig.json
+H:\Programming 1\Task 7\RockaPaperScissors\bin\Debug\net8.0\RockaPaperScissors.dll
+H:\Programming 1\Task 7\RockaPaperScissors\bin\Debug\net8.0\RockaPaperScissors.pdb
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\RockaPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\RockaPaperScissors.AssemblyInfoInputs.cache
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\RockaPaperScissors.AssemblyInfo.cs
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\RockaPaperScissors.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\RockaPaperScissors.dll
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\refint\RockaPaperScissors.dll
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\RockaPaperScissors.pdb
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\RockaPaperScissors.genruntimeconfig.cache
+H:\Programming 1\Task 7\RockaPaperScissors\obj\Debug\net8.0\ref\RockaPaperScissors.dll

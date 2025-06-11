@@ -1,0 +1,14 @@
+H:\Programming 1\Tasb3CFahrToCels\bin\Debug\net8.0\Tasb3CFahrToCels.exe
+H:\Programming 1\Tasb3CFahrToCels\bin\Debug\net8.0\Tasb3CFahrToCels.deps.json
+H:\Programming 1\Tasb3CFahrToCels\bin\Debug\net8.0\Tasb3CFahrToCels.runtimeconfig.json
+H:\Programming 1\Tasb3CFahrToCels\bin\Debug\net8.0\Tasb3CFahrToCels.dll
+H:\Programming 1\Tasb3CFahrToCels\bin\Debug\net8.0\Tasb3CFahrToCels.pdb
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\Tasb3CFahrToCels.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\Tasb3CFahrToCels.AssemblyInfoInputs.cache
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\Tasb3CFahrToCels.AssemblyInfo.cs
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\Tasb3CFahrToCels.csproj.CoreCompileInputs.cache
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\Tasb3CFahrToCels.dll
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\refint\Tasb3CFahrToCels.dll
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\Tasb3CFahrToCels.pdb
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\Tasb3CFahrToCels.genruntimeconfig.cache
+H:\Programming 1\Tasb3CFahrToCels\obj\Debug\net8.0\ref\Tasb3CFahrToCels.dll

@@ -1,0 +1,14 @@
+H:\Programming 1\Task 2 - Done\Lab2Advanced\bin\Debug\net8.0\Lab2Advanced.exe
+H:\Programming 1\Task 2 - Done\Lab2Advanced\bin\Debug\net8.0\Lab2Advanced.deps.json
+H:\Programming 1\Task 2 - Done\Lab2Advanced\bin\Debug\net8.0\Lab2Advanced.runtimeconfig.json
+H:\Programming 1\Task 2 - Done\Lab2Advanced\bin\Debug\net8.0\Lab2Advanced.dll
+H:\Programming 1\Task 2 - Done\Lab2Advanced\bin\Debug\net8.0\Lab2Advanced.pdb
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\Lab2Advanced.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\Lab2Advanced.AssemblyInfoInputs.cache
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\Lab2Advanced.AssemblyInfo.cs
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\Lab2Advanced.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\Lab2Advanced.dll
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\refint\Lab2Advanced.dll
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\Lab2Advanced.pdb
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\Lab2Advanced.genruntimeconfig.cache
+H:\Programming 1\Task 2 - Done\Lab2Advanced\obj\Debug\net8.0\ref\Lab2Advanced.dll

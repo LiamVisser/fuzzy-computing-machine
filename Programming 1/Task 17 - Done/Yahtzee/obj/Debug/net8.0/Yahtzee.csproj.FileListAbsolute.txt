@@ -1,0 +1,14 @@
+H:\Programming 1\Task 17\Yahtzee\bin\Debug\net8.0\Yahtzee.exe
+H:\Programming 1\Task 17\Yahtzee\bin\Debug\net8.0\Yahtzee.deps.json
+H:\Programming 1\Task 17\Yahtzee\bin\Debug\net8.0\Yahtzee.runtimeconfig.json
+H:\Programming 1\Task 17\Yahtzee\bin\Debug\net8.0\Yahtzee.dll
+H:\Programming 1\Task 17\Yahtzee\bin\Debug\net8.0\Yahtzee.pdb
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\Yahtzee.AssemblyInfoInputs.cache
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\Yahtzee.AssemblyInfo.cs
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\Yahtzee.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\Yahtzee.dll
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\refint\Yahtzee.dll
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\Yahtzee.pdb
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\Yahtzee.genruntimeconfig.cache
+H:\Programming 1\Task 17\Yahtzee\obj\Debug\net8.0\ref\Yahtzee.dll

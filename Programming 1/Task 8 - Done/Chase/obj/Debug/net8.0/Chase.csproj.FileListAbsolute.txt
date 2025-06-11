@@ -1,0 +1,14 @@
+H:\Programming 1\Task 8\Chase\bin\Debug\net8.0\Chase.exe
+H:\Programming 1\Task 8\Chase\bin\Debug\net8.0\Chase.deps.json
+H:\Programming 1\Task 8\Chase\bin\Debug\net8.0\Chase.runtimeconfig.json
+H:\Programming 1\Task 8\Chase\bin\Debug\net8.0\Chase.dll
+H:\Programming 1\Task 8\Chase\bin\Debug\net8.0\Chase.pdb
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\Chase.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\Chase.AssemblyInfoInputs.cache
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\Chase.AssemblyInfo.cs
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\Chase.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\Chase.dll
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\refint\Chase.dll
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\Chase.pdb
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\Chase.genruntimeconfig.cache
+H:\Programming 1\Task 8\Chase\obj\Debug\net8.0\ref\Chase.dll

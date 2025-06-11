@@ -1,0 +1,28 @@
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 24\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+H:\Programming 1\Task 24\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+H:\Programming 1\Task 24\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+H:\Programming 1\Task 24\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+H:\Programming 1\Task 24\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+H:\Programming 1\Task 24\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+D:\BIT HW\Programming 1\Task 24 - Done\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll

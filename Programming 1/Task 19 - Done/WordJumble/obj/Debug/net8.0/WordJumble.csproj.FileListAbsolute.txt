@@ -1,0 +1,14 @@
+H:\Programming 1\Task 19\WordJumble\bin\Debug\net8.0\WordJumble.exe
+H:\Programming 1\Task 19\WordJumble\bin\Debug\net8.0\WordJumble.deps.json
+H:\Programming 1\Task 19\WordJumble\bin\Debug\net8.0\WordJumble.runtimeconfig.json
+H:\Programming 1\Task 19\WordJumble\bin\Debug\net8.0\WordJumble.dll
+H:\Programming 1\Task 19\WordJumble\bin\Debug\net8.0\WordJumble.pdb
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\WordJumble.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\WordJumble.AssemblyInfoInputs.cache
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\WordJumble.AssemblyInfo.cs
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\WordJumble.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\WordJumble.dll
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\refint\WordJumble.dll
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\WordJumble.pdb
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\WordJumble.genruntimeconfig.cache
+H:\Programming 1\Task 19\WordJumble\obj\Debug\net8.0\ref\WordJumble.dll

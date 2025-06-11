@@ -1,0 +1,14 @@
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfoInputs.cache
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfo.cs
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ForLoops.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 10\ForLoops\bin\Debug\net8.0\ForLoops.exe
+H:\Programming 1\Task 10\ForLoops\bin\Debug\net8.0\ForLoops.deps.json
+H:\Programming 1\Task 10\ForLoops\bin\Debug\net8.0\ForLoops.runtimeconfig.json
+H:\Programming 1\Task 10\ForLoops\bin\Debug\net8.0\ForLoops.dll
+H:\Programming 1\Task 10\ForLoops\bin\Debug\net8.0\ForLoops.pdb
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ForLoops.dll
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\refint\ForLoops.dll
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ForLoops.pdb
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ForLoops.genruntimeconfig.cache
+H:\Programming 1\Task 10\ForLoops\obj\Debug\net8.0\ref\ForLoops.dll

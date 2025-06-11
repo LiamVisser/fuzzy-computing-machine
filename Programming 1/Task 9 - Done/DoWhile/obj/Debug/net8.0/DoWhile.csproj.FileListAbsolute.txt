@@ -1,0 +1,14 @@
+H:\Programming 1\Task 9\DoWhile\bin\Debug\net8.0\DoWhile.exe
+H:\Programming 1\Task 9\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+H:\Programming 1\Task 9\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+H:\Programming 1\Task 9\DoWhile\bin\Debug\net8.0\DoWhile.dll
+H:\Programming 1\Task 9\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\DoWhile.dll
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+H:\Programming 1\Task 9\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll

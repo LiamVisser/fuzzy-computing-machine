@@ -1,0 +1,14 @@
+H:\Programming 1\Task 5 - Done\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.exe
+H:\Programming 1\Task 5 - Done\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.deps.json
+H:\Programming 1\Task 5 - Done\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.runtimeconfig.json
+H:\Programming 1\Task 5 - Done\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.dll
+H:\Programming 1\Task 5 - Done\HeadsOrTails\bin\Debug\net8.0\HeadsOrTails.pdb
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.AssemblyInfoInputs.cache
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.AssemblyInfo.cs
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.dll
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\refint\HeadsOrTails.dll
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.pdb
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\HeadsOrTails.genruntimeconfig.cache
+H:\Programming 1\Task 5 - Done\HeadsOrTails\obj\Debug\net8.0\ref\HeadsOrTails.dll

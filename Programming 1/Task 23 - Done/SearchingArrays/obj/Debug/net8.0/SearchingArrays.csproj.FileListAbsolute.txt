@@ -1,0 +1,14 @@
+H:\Programming 1\Task 23\SearchingArrays\bin\Debug\net8.0\SearchingArrays.exe
+H:\Programming 1\Task 23\SearchingArrays\bin\Debug\net8.0\SearchingArrays.deps.json
+H:\Programming 1\Task 23\SearchingArrays\bin\Debug\net8.0\SearchingArrays.runtimeconfig.json
+H:\Programming 1\Task 23\SearchingArrays\bin\Debug\net8.0\SearchingArrays.dll
+H:\Programming 1\Task 23\SearchingArrays\bin\Debug\net8.0\SearchingArrays.pdb
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\SearchingArrays.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\SearchingArrays.AssemblyInfoInputs.cache
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\SearchingArrays.AssemblyInfo.cs
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\SearchingArrays.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\SearchingArrays.dll
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\refint\SearchingArrays.dll
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\SearchingArrays.pdb
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\SearchingArrays.genruntimeconfig.cache
+H:\Programming 1\Task 23\SearchingArrays\obj\Debug\net8.0\ref\SearchingArrays.dll

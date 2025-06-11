@@ -1,0 +1,14 @@
+H:\Programming 1\Task 13\Lab13Test\bin\Debug\net8.0\Lab13Test.exe
+H:\Programming 1\Task 13\Lab13Test\bin\Debug\net8.0\Lab13Test.deps.json
+H:\Programming 1\Task 13\Lab13Test\bin\Debug\net8.0\Lab13Test.runtimeconfig.json
+H:\Programming 1\Task 13\Lab13Test\bin\Debug\net8.0\Lab13Test.dll
+H:\Programming 1\Task 13\Lab13Test\bin\Debug\net8.0\Lab13Test.pdb
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\Lab13Test.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\Lab13Test.AssemblyInfoInputs.cache
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\Lab13Test.AssemblyInfo.cs
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\Lab13Test.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\Lab13Test.dll
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\refint\Lab13Test.dll
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\Lab13Test.pdb
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\Lab13Test.genruntimeconfig.cache
+H:\Programming 1\Task 13\Lab13Test\obj\Debug\net8.0\ref\Lab13Test.dll

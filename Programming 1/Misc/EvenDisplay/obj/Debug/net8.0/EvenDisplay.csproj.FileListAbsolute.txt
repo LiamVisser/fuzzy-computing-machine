@@ -1,0 +1,14 @@
+H:\Programming 1\Misc\EvenDisplay\bin\Debug\net8.0\EvenDisplay.exe
+H:\Programming 1\Misc\EvenDisplay\bin\Debug\net8.0\EvenDisplay.deps.json
+H:\Programming 1\Misc\EvenDisplay\bin\Debug\net8.0\EvenDisplay.runtimeconfig.json
+H:\Programming 1\Misc\EvenDisplay\bin\Debug\net8.0\EvenDisplay.dll
+H:\Programming 1\Misc\EvenDisplay\bin\Debug\net8.0\EvenDisplay.pdb
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\EvenDisplay.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\EvenDisplay.AssemblyInfoInputs.cache
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\EvenDisplay.AssemblyInfo.cs
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\EvenDisplay.csproj.CoreCompileInputs.cache
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\EvenDisplay.dll
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\refint\EvenDisplay.dll
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\EvenDisplay.pdb
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\EvenDisplay.genruntimeconfig.cache
+H:\Programming 1\Misc\EvenDisplay\obj\Debug\net8.0\ref\EvenDisplay.dll

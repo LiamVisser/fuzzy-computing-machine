@@ -1,0 +1,14 @@
+H:\Programming 1\Task 18\Methods\Methods\bin\Debug\net8.0\Methods.exe
+H:\Programming 1\Task 18\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+H:\Programming 1\Task 18\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+H:\Programming 1\Task 18\Methods\Methods\bin\Debug\net8.0\Methods.dll
+H:\Programming 1\Task 18\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\Methods.dll
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+H:\Programming 1\Task 18\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll

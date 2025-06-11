@@ -1,0 +1,14 @@
+H:\Programming 1\Task 16\PracTest\bin\Debug\net8.0\PracTest.exe
+H:\Programming 1\Task 16\PracTest\bin\Debug\net8.0\PracTest.deps.json
+H:\Programming 1\Task 16\PracTest\bin\Debug\net8.0\PracTest.runtimeconfig.json
+H:\Programming 1\Task 16\PracTest\bin\Debug\net8.0\PracTest.dll
+H:\Programming 1\Task 16\PracTest\bin\Debug\net8.0\PracTest.pdb
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\PracTest.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\PracTest.AssemblyInfoInputs.cache
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\PracTest.AssemblyInfo.cs
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\PracTest.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\PracTest.dll
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\refint\PracTest.dll
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\PracTest.pdb
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\PracTest.genruntimeconfig.cache
+H:\Programming 1\Task 16\PracTest\obj\Debug\net8.0\ref\PracTest.dll

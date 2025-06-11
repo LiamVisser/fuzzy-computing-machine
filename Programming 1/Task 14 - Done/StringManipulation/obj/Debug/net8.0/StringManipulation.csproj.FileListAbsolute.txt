@@ -1,0 +1,28 @@
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\StringManipulation.AssemblyInfoInputs.cache
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\StringManipulation.AssemblyInfo.cs
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\StringManipulation.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 14\StringManipulation\bin\Debug\net8.0\StringManipulation.exe
+H:\Programming 1\Task 14\StringManipulation\bin\Debug\net8.0\StringManipulation.deps.json
+H:\Programming 1\Task 14\StringManipulation\bin\Debug\net8.0\StringManipulation.runtimeconfig.json
+H:\Programming 1\Task 14\StringManipulation\bin\Debug\net8.0\StringManipulation.dll
+H:\Programming 1\Task 14\StringManipulation\bin\Debug\net8.0\StringManipulation.pdb
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\StringManipulation.dll
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\refint\StringManipulation.dll
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\StringManipulation.pdb
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\StringManipulation.genruntimeconfig.cache
+H:\Programming 1\Task 14\StringManipulation\obj\Debug\net8.0\ref\StringManipulation.dll
+H:\Programming 1\Task 14 - Done\StringManipulation\bin\Debug\net8.0\StringManipulation.exe
+H:\Programming 1\Task 14 - Done\StringManipulation\bin\Debug\net8.0\StringManipulation.deps.json
+H:\Programming 1\Task 14 - Done\StringManipulation\bin\Debug\net8.0\StringManipulation.runtimeconfig.json
+H:\Programming 1\Task 14 - Done\StringManipulation\bin\Debug\net8.0\StringManipulation.dll
+H:\Programming 1\Task 14 - Done\StringManipulation\bin\Debug\net8.0\StringManipulation.pdb
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\StringManipulation.AssemblyInfoInputs.cache
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\StringManipulation.AssemblyInfo.cs
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\StringManipulation.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\StringManipulation.dll
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\refint\StringManipulation.dll
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\StringManipulation.pdb
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\StringManipulation.genruntimeconfig.cache
+H:\Programming 1\Task 14 - Done\StringManipulation\obj\Debug\net8.0\ref\StringManipulation.dll

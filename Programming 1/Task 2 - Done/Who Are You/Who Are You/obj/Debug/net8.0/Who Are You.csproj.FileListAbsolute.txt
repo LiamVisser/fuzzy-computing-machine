@@ -1,0 +1,14 @@
+H:\Programming 1\Who Are You\Who Are You\bin\Debug\net8.0\Who Are You.exe
+H:\Programming 1\Who Are You\Who Are You\bin\Debug\net8.0\Who Are You.deps.json
+H:\Programming 1\Who Are You\Who Are You\bin\Debug\net8.0\Who Are You.runtimeconfig.json
+H:\Programming 1\Who Are You\Who Are You\bin\Debug\net8.0\Who Are You.dll
+H:\Programming 1\Who Are You\Who Are You\bin\Debug\net8.0\Who Are You.pdb
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\Who Are You.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\Who Are You.AssemblyInfoInputs.cache
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\Who Are You.AssemblyInfo.cs
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\Who Are You.csproj.CoreCompileInputs.cache
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\Who Are You.dll
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\refint\Who Are You.dll
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\Who Are You.pdb
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\Who Are You.genruntimeconfig.cache
+H:\Programming 1\Who Are You\Who Are You\obj\Debug\net8.0\ref\Who Are You.dll

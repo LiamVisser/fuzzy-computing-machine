@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Programming 1\\Task 18\\Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47BB3F38-DD66-4F38-935B-BBDE46574024}|Methods\\Methods.csproj|h:\\programming 1\\task 18\\methods\\methods\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BB3F38-DD66-4F38-935B-BBDE46574024}|Methods\\Methods.csproj|solutionrelative:methods\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "H:\\Programming 1\\Task 18\\Methods\\Methods\\Menu.cs",
+              "RelativeDocumentMoniker": "Methods\\Menu.cs",
+              "ToolTip": "H:\\Programming 1\\Task 18\\Methods\\Methods\\Menu.cs",
+              "RelativeToolTip": "Methods\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:28:18.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+H:\Programming 1\Task 20\References\bin\Debug\net8.0\References.exe
+H:\Programming 1\Task 20\References\bin\Debug\net8.0\References.deps.json
+H:\Programming 1\Task 20\References\bin\Debug\net8.0\References.runtimeconfig.json
+H:\Programming 1\Task 20\References\bin\Debug\net8.0\References.dll
+H:\Programming 1\Task 20\References\bin\Debug\net8.0\References.pdb
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\References.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\References.AssemblyInfoInputs.cache
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\References.AssemblyInfo.cs
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\References.csproj.CoreCompileInputs.cache
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\References.dll
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\refint\References.dll
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\References.pdb
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\References.genruntimeconfig.cache
+H:\Programming 1\Task 20\References\obj\Debug\net8.0\ref\References.dll
